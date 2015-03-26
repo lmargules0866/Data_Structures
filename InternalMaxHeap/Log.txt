@@ -1,0 +1,202 @@
+build,continent,South America
+>> OK, 14 countries stored in PQ
+
+ArraySnapshot
+N is 14
+[0]   Brazil                         /  170,115,000 
+[1]   Argentina                      /   37,032,000 
+[2]   Colombia                       /   42,321,000 
+[3]   Bolivia                        /    8,329,000 
+[4]   Chile                          /   15,211,000 
+[5]   Venezuela                      /   24,170,000 
+[6]   Peru                           /   25,662,000 
+[7]   Falkland Islands               /        2,000 
+[8]   Suriname                       /      417,000 
+[9]   French Guiana                  /      181,000 
+[10]  Paraguay                       /    5,496,000 
+[11]  Guyana                         /      861,000 
+[12]  Ecuador                        /   12,646,000 
+[13]  Uruguay                        /    3,337,000 
+
+Empty
+N is 14
+01  >  Brazil                         /  170,115,000 
+02  >  Colombia                       /   42,321,000 
+03  >  Argentina                      /   37,032,000 
+04  >  Peru                           /   25,662,000 
+05  >  Venezuela                      /   24,170,000 
+06  >  Chile                          /   15,211,000 
+07  >  Ecuador                        /   12,646,000 
+08  >  Bolivia                        /    8,329,000 
+09  >  Paraguay                       /    5,496,000 
+10  >  Uruguay                        /    3,337,000 
+11  >  Guyana                         /      861,000 
+12  >  Suriname                       /      417,000 
+13  >  French Guiana                  /      181,000 
+14  >  Falkland Islands               /        2,000 
+
+ArraySnapshot
+N is 0
+
+build,continent,North America
+>> OK, 13 countries stored in PQ
+
+ArraySnapshot
+N is 13
+[0]   United States                  /  278,357,000 
+[1]   Canada                         /   31,147,000 
+[2]   Mexico                         /   98,881,000 
+[3]   Honduras                       /    6,485,000 
+[4]   Nicaragua                      /    5,074,000 
+[5]   Guatemala                      /   11,385,000 
+[6]   Belize                         /      241,000 
+[7]   St. Pierre & Miquelon          /        7,000 
+[8]   Panama                         /    2,856,000 
+[9]   Greenland                      /       56,000 
+[10]  Costa Rica                     /    4,023,000 
+[11]  Bermuda                        /       65,000 
+[12]  El Salvador                    /    6,276,000 
+
+add,region,Western Europe
+>> OK, 9 countries added in PQ
+
+add,region,Nordic Countries
+>> OK, 7 countries added in PQ
+
+remove,20
+01  >  United States                  /  278,357,000 
+02  >  Mexico                         /   98,881,000 
+03  >  Germany                        /   82,164,700 
+04  >  France                         /   59,225,700 
+05  >  Canada                         /   31,147,000 
+06  >  Netherlands                    /   15,864,000 
+07  >  Guatemala                      /   11,385,000 
+08  >  Belgium                        /   10,239,000 
+09  >  Sweden                         /    8,861,400 
+10  >  Austria                        /    8,091,800 
+11  >  Switzerland                    /    7,160,400 
+12  >  Honduras                       /    6,485,000 
+13  >  El Salvador                    /    6,276,000 
+14  >  Denmark                        /    5,330,000 
+15  >  Finland                        /    5,171,300 
+16  >  Nicaragua                      /    5,074,000 
+17  >  Norway                         /    4,478,500 
+18  >  Costa Rica                     /    4,023,000 
+19  >  Panama                         /    2,856,000 
+20  >  Luxembourg                     /      435,700 
+
+ArraySnapshot
+N is 9
+[0]   Iceland                        /      279,000 
+[1]   Greenland                      /       56,000 
+[2]   Belize                         /      241,000 
+[3]   Faroe Islands                  /       43,000 
+[4]   St. Pierre & Miquelon          /        7,000 
+[5]   Bermuda                        /       65,000 
+[6]   Svalbard & Jan Mayen           /        3,200 
+[7]   Liechtenstein                  /       32,300 
+[8]   Monaco                         /       34,000 
+
+add,region,British Islands
+>> OK, 2 countries added in PQ
+
+remove,2
+01  >  United Kingdom                 /   59,623,400 
+02  >  Ireland                        /    3,775,100 
+
+remove,2
+01  >  Iceland                        /      279,000 
+02  >  Belize                         /      241,000 
+
+add,region,Southern Europe
+>> OK, 14 countries added in PQ
+
+add,region,Baltic Countries
+>> OK, 3 countries added in PQ
+
+remove,10
+01  >  Italy                          /   57,680,000 
+02  >  Spain                          /   39,441,700 
+03  >  Yugoslavia                     /   10,640,000 
+04  >  Greece                         /   10,545,700 
+05  >  Portugal                       /    9,997,600 
+06  >  Croatia                        /    4,473,000 
+07  >  Bosnia & Herzegovina           /    3,972,000 
+08  >  Lithuania                      /    3,698,500 
+09  >  Albania                        /    3,401,200 
+10  >  Latvia                         /    2,424,200 
+
+ArraySnapshot
+N is 14
+[0]   Macedonia                      /    2,024,000 
+[1]   Slovenia                       /    1,987,800 
+[2]   Estonia                        /    1,439,200 
+[3]   Greenland                      /       56,000 
+[4]   Andorra                        /       78,000 
+[5]   Monaco                         /       34,000 
+[6]   Malta                          /      380,200 
+[7]   Faroe Islands                  /       43,000 
+[8]   San Marino                     /       27,000 
+[9]   Bermuda                        /       65,000 
+[10]  St. Pierre & Miquelon          /        7,000 
+[11]  Vatican City                   /        1,000 
+[12]  Liechtenstein                  /       32,300 
+[13]  Svalbard & Jan Mayen           /        3,200 
+
+add,region,Eastern Europe
+>> OK, 10 countries added in PQ
+
+ArraySnapshot
+N is 24
+[0]   Russian Federation             /  146,934,000 
+[1]   Poland                         /   38,653,600 
+[2]   Ukraine                        /   50,456,000 
+[3]   Bulgaria                       /    8,190,900 
+[4]   Romania                        /   22,455,500 
+[5]   Macedonia                      /    2,024,000 
+[6]   Estonia                        /    1,439,200 
+[7]   Slovenia                       /    1,987,800 
+[8]   Slovakia                       /    5,398,700 
+[9]   Hungary                        /   10,043,200 
+[10]  Czech Republic                 /   10,278,100 
+[11]  Monaco                         /       34,000 
+[12]  Liechtenstein                  /       32,300 
+[13]  Svalbard & Jan Mayen           /        3,200 
+[14]  Malta                          /      380,200 
+[15]  Faroe Islands                  /       43,000 
+[16]  Greenland                      /       56,000 
+[17]  San Marino                     /       27,000 
+[18]  Moldova                        /    4,380,000 
+[19]  Bermuda                        /       65,000 
+[20]  Andorra                        /       78,000 
+[21]  St. Pierre & Miquelon          /        7,000 
+[22]  Belarus                        /   10,236,000 
+[23]  Vatican City                   /        1,000 
+
+Empty
+N is 24
+01  >  Russian Federation             /  146,934,000 
+02  >  Ukraine                        /   50,456,000 
+03  >  Poland                         /   38,653,600 
+04  >  Romania                        /   22,455,500 
+05  >  Czech Republic                 /   10,278,100 
+06  >  Belarus                        /   10,236,000 
+07  >  Hungary                        /   10,043,200 
+08  >  Bulgaria                       /    8,190,900 
+09  >  Slovakia                       /    5,398,700 
+10  >  Moldova                        /    4,380,000 
+11  >  Macedonia                      /    2,024,000 
+12  >  Slovenia                       /    1,987,800 
+13  >  Estonia                        /    1,439,200 
+14  >  Malta                          /      380,200 
+15  >  Andorra                        /       78,000 
+16  >  Bermuda                        /       65,000 
+17  >  Greenland                      /       56,000 
+18  >  Faroe Islands                  /       43,000 
+19  >  Monaco                         /       34,000 
+20  >  Liechtenstein                  /       32,300 
+21  >  San Marino                     /       27,000 
+22  >  St. Pierre & Miquelon          /        7,000 
+23  >  Svalbard & Jan Mayen           /        3,200 
+24  >  Vatican City                   /        1,000 
+

@@ -1,0 +1,20 @@
+build,continent,South America
+arraySnapshot
+empty
+arraySnapshot
+build,continent,North America
+arraySnapshot
+add,region,Western Europe
+add,region,Nordic Countries
+remove,20
+arraySnapshot
+add,region,British Islands
+remove,2
+remove,2
+add,region,Southern Europe
+add,region,Baltic Countries
+remove,10
+arraySnapshot
+add,region,Eastern Europe
+arraySnapshot
+empty

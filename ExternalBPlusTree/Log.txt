@@ -1,0 +1,283 @@
+SC WMU 
+>>  4  I/O's,  14  key-comparisons >>  CODE NOT FOUND 
+SC ZZZ 
+>>  1  I/O's,  3  key-comparisons >>  CODE NOT FOUND 
+SC AAA 
+>>  4  I/O's,  5  key-comparisons >>  CODE NOT FOUND 
+SC ZWE 
+>>  5  I/O's,  24  key-comparisons >>  ZWE Zimbabwe      37.8 
+SC WSM 
+>>  5  I/O's,  14  key-comparisons >>  WSM Samoa         69.2 
+SC IDN 
+>>  5  I/O's,  24  key-comparisons >>  IDN Indonesia     68.0 
+SC BOX 
+>>  4  I/O's,  6  key-comparisons >>  CODE NOT FOUND 
+SC LKA 
+>>  5  I/O's,  20  key-comparisons >>  LKA Sri Lanka     71.8 
+SC ALB 
+>>  5  I/O's,  13  key-comparisons >>  ALB Albania       71.6 
+SC NLD 
+>>  5  I/O's,  21  key-comparisons >>  NLD Netherlands   78.3 
+SC ECU 
+>>  5  I/O's,  20  key-comparisons >>  ECU Ecuador       71.1 
+SC DMA 
+>>  5  I/O's,  12  key-comparisons >>  DMA Dominica      73.4 
+SC NOR 
+>>  5  I/O's,  8  key-comparisons >>  NOR Norway        78.7 
+SC OMN 
+>>  5  I/O's,  16  key-comparisons >>  OMN Oman          71.8 
+SC PAN 
+>>  5  I/O's,  20  key-comparisons >>  PAN Panama        75.5 
+SC SVN 
+>>  5  I/O's,  16  key-comparisons >>  SVN Slovenia      74.9 
+SC WSM 
+>>  5  I/O's,  14  key-comparisons >>  WSM Samoa         69.2 
+SC ABW 
+>>  5  I/O's,  5  key-comparisons >>  ABW Aruba         78.4 
+SC ALB 
+>>  5  I/O's,  13  key-comparisons >>  ALB Albania       71.6 
+SC ALL 
+>>  4  I/O's,  6  key-comparisons >>  CODE NOT FOUND 
+SC AGZ 
+>>  4  I/O's,  11  key-comparisons >>  CODE NOT FOUND 
+AC 
+ABW Aruba         78.4 211 
+AFG Afghanistan   45.9 060 
+AGO Angola        38.3 146 
+AIA Anguilla      76.1 210 
+ALB Albania       71.6 053 
+AND Andorra       83.5 010 
+ANT NethAntilles  74.7 218 
+ARE U Ar Emirates 74.1 142 
+ARG Argentina     75.1 024 
+ARM Armenia       66.4 170 
+ASM Amer. Samoa   75.1 224 
+ATA Antarctica    00.0 198 
+ATF Fr South.Ter  00.0 200 
+ATG Antigua & Bar 70.5 163 
+AUS Australia     79.8 044 
+AUT Austria       77.7 056 
+AZE Azerbaijan    62.9 171 
+BDI Burundi       46.2 116 
+BEL Belgium       77.8 032 
+BEN Benin         50.2 094 
+BFA Burkina Faso  46.7 095 
+BGD Bangladesh    60.2 140 
+BGR Bulgaria      70.9 050 
+BHR Bahrain       73.0 139 
+BHS Bahamas       71.1 143 
+BIH Bosnia &Herze 71.5 188 
+BLR Belarus       68.0 178 
+BLZ Belize        70.9 164 
+BMU Bermuda       76.9 212 
+BOL Bolivia       63.7 030 
+BRA Brazil        62.9 028 
+BRB Barbados      73.0 131 
+BRN Brunei        73.6 166 
+BTN Bhutan        52.4 052 
+BVT BouvetIsland  00.0 199 
+BWA Botswana      39.3 129 
+CAF CenAfricanRep 44.0 097 
+CAN Canada        79.4 042 
+CCK CocosIslands  00.0 226 
+CHE Switzerland   79.6 013 
+CHL Chile         75.7 020 
+CHN China         71.4 001 
+CIV Cote D'Ivoire 45.2 101 
+CMR Cameroon      54.8 096 
+COD Congo;Dem Rep 48.8 100 
+COG Congo         47.4 099 
+COK Cook Islands  71.1 227 
+COL Colombia      70.3 021 
+COM Comoros       60.0 148 
+CPV Cape Verde    68.9 147 
+CRI Costa Rica    75.8 025 
+CUB Cuba          76.2 045 
+CXR ChristmasIsl  00.0 225 
+CYM CaymanIsl's   78.9 213 
+CYP Cyprus        76.7 111 
+CZE Czech Rep     74.5 190 
+DEU Germany       77.4 087 
+DJI Djibouti      50.8 154 
+DMA Dominica      73.4 155 
+DNK Denmark       76.5 004 
+DOM Dominican Rep 73.2 037 
+DZA Algeria       69.7 115 
+ECU Ecuador       71.1 029 
+EGY Egypt         63.3 063 
+ERI Eritrea       55.8 189 
+ESH West. Sahara  49.8 197 
+ESP Spain         78.8 012 
+EST Estonia       69.5 180 
+ETH Ethiopia      45.2 002 
+FIN Finland       77.4 054 
+FJI Fiji Islands  67.9 137 
+FLK Falkland Isl  00.0 238 
+FRA France        78.8 006 
+FRO Faroe Islands 78.4 207 
+FSM Micronesia    68.6 169 
+GAB Gabon         50.1 102 
+GBR UnitedKingdom 77.7 008 
+GEO Georgia       64.5 172 
+GHA Ghana         57.4 091 
+GIB Gibraltar     79.0 208 
+GIN Guinea        45.6 093 
+GLP Guadeloupe    77.0 215 
+GMB Gambia        53.2 126 
+GNB Guinea Bissau 49.0 144 
+GNQ Equato Guinea 53.6 133 
+GRC Greece        78.4 033 
+GRD Grenada       64.5 145 
+GRL Greenland     68.1 214 
+GTM Guatemala     66.2 026 
+GUF FrenchGuiana  76.1 239 
+GUM Guam          77.8 229 
+GUY Guyana        64.0 132 
+HKG Hong Kong     79.5 204 
+HMD HeardIs &MDIs 00.0 201 
+HND Honduras      69.9 034 
+HRV Croatia       73.7 179 
+HTI Haiti         49.2 017 
+HUN Hungary       71.4 057 
+IDN Indonesia     68.0 071 
+IND India         62.5 076 
+IOT BrIndianO Ter 00.0 193 
+IRL Ireland       76.8 062 
+IRN Iran          69.7 048 
+IRQ Iraq          66.5 066 
+ISL Iceland       79.4 070 
+ISR Israel        78.6 078 
+ITA Italy         79.0 039 
+JAM Jamaica       75.2 119 
+JOR Jordan        77.4 074 
+JPN Japan         80.7 003 
+KAZ Kazakstan     63.2 173 
+KEN Kenya         48.0 122 
+KGZ Kyrgyzstan    63.4 174 
+KHM Cambodia      56.5 085 
+KIR Kiribati      59.8 160 
+KNA StKitts& Nevi 70.7 165 
+KOR South Korea   74.4 081 
+KWT Kuwait        76.1 114 
+LAO Laos          53.1 086 
+LBN Lebanon       71.3 068 
+LBR Liberia       51.0 038 
+LBY Libyan Arab J 75.5 083 
+LCA Saint Lucia   72.3 158 
+LIE Liechtenstein 78.8 018 
+LKA Sri Lanka     71.8 082 
+LSO Lesotho       50.8 130 
+LTU Lithuania     69.1 182 
+LUX Luxembourg    77.1 041 
+LVA Latvia        68.4 181 
+MAC Macao         81.6 205 
+MAR Morocco       69.1 088 
+MCO Monaco        78.8 040 
+MDA Moldova       64.5 184 
+MDG Madagascar    55.0 103 
+MDV Maldives      62.2 127 
+MEX Mexico        71.5 019 
+MHL Marshall Isl  65.5 168 
+MKD Macedonia     73.8 183 
+MLI Mali          46.7 104 
+MLT Malta         77.9 125 
+MMR Myanmar       54.9 079 
+MNG Mongolia      67.3 061 
+MNP N Mariana Isl 75.5 233 
+MOZ Mozambique    37.5 149 
+MRT Mauritania    50.8 105 
+MSR Montserrat    78.0 217 
+MTQ Martinique    78.3 216 
+MUS Mauritius     71 134 
+MWI Malawi        37.6 123 
+MYS Malaysia      70.8 092 
+MYT Mayotte       59.5 194 
+NAM Namibia       42.5 167 
+NCL New Caledonia 72.8 230 
+NER Niger         41.3 106 
+NFK NorfolkIsl    00.0 232 
+NGA Nigeria       51.6 107 
+NIC Nicaragua     68.7 035 
+NIU Niue          00.0 231 
+NLD Netherlands   78.3 014 
+NOR Norway        78.7 047 
+NPL Nepal         57.8 015 
+NRU Nauru         60.8 136 
+NZL New Zealand   77.8 049 
+OMN Oman          71.8 084 
+PAK Pakistan      61.1 077 
+PAN Panama        75.5 046 
+PCN Pitcairn      00.0 234 
+PER Peru          70.0 027 
+PHL Philippines   67.5 075 
+PLW Palau         68.6 192 
+PNG Pap NewGuinea 63.1 151 
+POL Poland        73.2 058 
+PRI Puerto Rico   75.6 219 
+PRK North Korea   70.7 080 
+PRT Portugal      75.8 009 
+PRY Paraguay      73.7 022 
+PSE Palestine     71.4 206 
+PYF Fr Polynesia  74.8 228 
+QAT Qatar         72.4 141 
+REU Reunion       72.7 195 
+ROM Romania       69.9 043 
+RUS Russian Fed.  67.2 185 
+RWA Rwanda        39.3 117 
+SAU Saudi Arabia  67.8 067 
+SDN Sudan         56.6 089 
+SEN Senegal       62.2 108 
+SGP Singapore     80.1 128 
+SGS SGeor&SSandw  00.0 202 
+SHN Saint Helena  76.8 196 
+SJM Svalbard&JM   00.0 209 
+SLB Solomon Isl   71.3 156 
+SLE Sierra Leone  45.3 112 
+SLV El Salvador   69.7 036 
+SMR San Marino    81.1 007 
+SOM Somalia       46.2 109 
+SPM StPierre &Miq 77.6 220 
+STP SaoTome& Prin 65.3 150 
+SUR Suriname      71.4 152 
+SVK Slovakia      73.7 191 
+SVN Slovenia      74.9 186 
+SWE Sweden        79.6 005 
+SWZ Swaziland     40.4 135 
+SYC Seychelles    70.4 153 
+SYR Syria         68.5 069 
+TCA Turks&Caicos  73.3 221 
+TCD Chad          50.5 098 
+TGO Togo          54.7 110 
+THA Thailand      68.6 011 
+TJK Tajikistan    64.1 175 
+TKL Tokelau       00.0 235 
+TKM Turkmenistan  60.9 176 
+TMP East Timor    46.0 203 
+TON Tonga         67.9 138 
+TTO Trinidad&Toba 68.0 120 
+TUN Tunisia       73.7 090 
+TUR Turkey        71.0 064 
+TUV Tuvalu        66.3 157 
+TWN Taiwan        76.4 072 
+TZA Tanzania      52.3 113 
+UGA Uganda        42.9 118 
+UKR Ukraine       66.0 187 
+UMI USMinorOutIs  00.0 236 
+URY Uruguay       75.2 031 
+USA United States 77.1 016 
+UZB Uzbekistan    63.7 177 
+VAT Vatican City  00.0 065 
+VCT StVincent& Gr 72.3 159 
+VEN Venezuela     73.1 023 
+VGB VirginIs-Bri  75.4 222 
+VIR VirginIs-US   78.1 223 
+VNM Vietnam       69.3 073 
+VUT Vanuatu       60.6 162 
+WLF Wallis &Futun 00.0 237 
+WSM Samoa         69.2 121 
+YEM Yemen         59.8 055 
+YUG Yugoslavia    72.4 059 
+ZAF South Africa  51.1 051 
+ZMB Zambia        37.2 124 
+ZWE Zimbabwe      37.8 161 
+++++++++++++++++++++++++++ END OF DATA (239 countries)

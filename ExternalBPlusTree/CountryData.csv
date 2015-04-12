@@ -1,0 +1,239 @@
+001,CHN,China        ,71.4
+002,ETH,Ethiopia     ,45.2
+003,JPN,Japan        ,80.7
+004,DNK,Denmark      ,76.5
+005,SWE,Sweden       ,79.6
+006,FRA,France       ,78.8
+007,SMR,San Marino   ,81.1
+008,GBR,UnitedKingdom,77.7
+009,PRT,Portugal     ,75.8
+010,AND,Andorra      ,83.5
+011,THA,Thailand     ,68.6
+012,ESP,Spain        ,78.8
+013,CHE,Switzerland  ,79.6
+014,NLD,Netherlands  ,78.3
+015,NPL,Nepal        ,57.8
+016,USA,United States,77.1
+017,HTI,Haiti        ,49.2
+018,LIE,Liechtenstein,78.8
+019,MEX,Mexico       ,71.5
+020,CHL,Chile        ,75.7
+021,COL,Colombia     ,70.3
+022,PRY,Paraguay     ,73.7
+023,VEN,Venezuela    ,73.1
+024,ARG,Argentina    ,75.1
+025,CRI,Costa Rica   ,75.8
+026,GTM,Guatemala    ,66.2
+027,PER,Peru         ,70.0
+028,BRA,Brazil       ,62.9
+029,ECU,Ecuador      ,71.1
+030,BOL,Bolivia      ,63.7
+031,URY,Uruguay      ,75.2
+032,BEL,Belgium      ,77.8
+033,GRC,Greece       ,78.4
+034,HND,Honduras     ,69.9
+035,NIC,Nicaragua    ,68.7
+036,SLV,El Salvador  ,69.7
+037,DOM,Dominican Rep,73.2
+038,LBR,Liberia      ,51.0
+039,ITA,Italy        ,79.0
+040,MCO,Monaco       ,78.8
+041,LUX,Luxembourg   ,77.1
+042,CAN,Canada       ,79.4
+043,ROM,Romania      ,69.9
+044,AUS,Australia    ,79.8
+045,CUB,Cuba         ,76.2
+046,PAN,Panama       ,75.5
+047,NOR,Norway       ,78.7
+048,IRN,Iran         ,69.7
+049,NZL,New Zealand  ,77.8
+050,BGR,Bulgaria     ,70.9
+051,ZAF,South Africa ,51.1
+052,BTN,Bhutan       ,52.4
+053,ALB,Albania      ,71.6
+054,FIN,Finland      ,77.4
+055,YEM,Yemen        ,59.8
+056,AUT,Austria      ,77.7
+057,HUN,Hungary      ,71.4
+058,POL,Poland       ,73.2
+059,YUG,Yugoslavia   ,72.4
+060,AFG,Afghanistan  ,45.9
+061,MNG,Mongolia     ,67.3
+062,IRL,Ireland      ,76.8
+063,EGY,Egypt        ,63.3
+064,TUR,Turkey       ,71.0
+065,VAT,Vatican City ,00.0
+066,IRQ,Iraq         ,66.5
+067,SAU,Saudi Arabia ,67.8
+068,LBN,Lebanon      ,71.3
+069,SYR,Syria        ,68.5
+070,ISL,Iceland      ,79.4
+071,IDN,Indonesia    ,68.0
+072,TWN,Taiwan       ,76.4
+073,VNM,Vietnam      ,69.3
+074,JOR,Jordan       ,77.4
+075,PHL,Philippines  ,67.5
+076,IND,India        ,62.5
+077,PAK,Pakistan     ,61.1
+078,ISR,Israel       ,78.6
+079,MMR,Myanmar      ,54.9
+080,PRK,North Korea  ,70.7
+081,KOR,South Korea  ,74.4
+082,LKA,Sri Lanka    ,71.8
+083,LBY,Libyan Arab J,75.5
+084,OMN,Oman         ,71.8
+085,KHM,Cambodia     ,56.5
+086,LAO,Laos         ,53.1
+087,DEU,Germany      ,77.4
+088,MAR,Morocco      ,69.1
+089,SDN,Sudan        ,56.6
+090,TUN,Tunisia      ,73.7
+091,GHA,Ghana        ,57.4
+092,MYS,Malaysia     ,70.8
+093,GIN,Guinea       ,45.6
+094,BEN,Benin        ,50.2
+095,BFA,Burkina Faso ,46.7
+096,CMR,Cameroon     ,54.8
+097,CAF,CenAfricanRep,44.0
+098,TCD,Chad         ,50.5
+099,COG,Congo        ,47.4
+100,COD,Congo;Dem Rep,48.8
+101,CIV,Cote D'Ivoire,45.2
+102,GAB,Gabon        ,50.1
+103,MDG,Madagascar   ,55.0
+104,MLI,Mali         ,46.7
+105,MRT,Mauritania   ,50.8
+106,NER,Niger        ,41.3
+107,NGA,Nigeria      ,51.6
+108,SEN,Senegal      ,62.2
+109,SOM,Somalia      ,46.2
+110,TGO,Togo         ,54.7
+111,CYP,Cyprus       ,76.7
+112,SLE,Sierra Leone ,45.3
+113,TZA,Tanzania     ,52.3
+114,KWT,Kuwait       ,76.1
+115,DZA,Algeria      ,69.7
+116,BDI,Burundi      ,46.2
+117,RWA,Rwanda       ,39.3
+118,UGA,Uganda       ,42.9
+119,JAM,Jamaica      ,75.2
+120,TTO,Trinidad&Toba,68.0
+121,WSM,Samoa        ,69.2
+122,KEN,Kenya        ,48.0
+123,MWI,Malawi       ,37.6
+124,ZMB,Zambia       ,37.2
+125,MLT,Malta        ,77.9
+126,GMB,Gambia       ,53.2
+127,MDV,Maldives     ,62.2
+128,SGP,Singapore    ,80.1
+129,BWA,Botswana     ,39.3
+130,LSO,Lesotho      ,50.8
+131,BRB,Barbados     ,73.0
+132,GUY,Guyana       ,64.0
+133,GNQ,Equato Guinea,53.6
+134,MUS,Mauritius    ,71,0
+135,SWZ,Swaziland    ,40.4
+136,NRU,Nauru        ,60.8
+137,FJI,Fiji Islands ,67.9
+138,TON,Tonga        ,67.9
+139,BHR,Bahrain      ,73.0
+140,BGD,Bangladesh   ,60.2
+141,QAT,Qatar        ,72.4
+142,ARE,U Ar Emirates,74.1
+143,BHS,Bahamas      ,71.1
+144,GNB,Guinea Bissau,49.0
+145,GRD,Grenada      ,64.5
+146,AGO,Angola       ,38.3
+147,CPV,Cape Verde   ,68.9
+148,COM,Comoros      ,60.0
+149,MOZ,Mozambique   ,37.5
+150,STP,SaoTome& Prin,65.3
+151,PNG,Pap NewGuinea,63.1
+152,SUR,Suriname     ,71.4
+153,SYC,Seychelles   ,70.4
+154,DJI,Djibouti     ,50.8
+155,DMA,Dominica     ,73.4
+156,SLB,Solomon Isl  ,71.3
+157,TUV,Tuvalu       ,66.3
+158,LCA,Saint Lucia  ,72.3
+159,VCT,StVincent& Gr,72.3
+160,KIR,Kiribati     ,59.8
+161,ZWE,Zimbabwe     ,37.8
+162,VUT,Vanuatu      ,60.6
+163,ATG,Antigua & Bar,70.5
+164,BLZ,Belize       ,70.9
+165,KNA,StKitts& Nevi,70.7
+166,BRN,Brunei       ,73.6
+167,NAM,Namibia      ,42.5
+168,MHL,Marshall Isl ,65.5
+169,FSM,Micronesia   ,68.6
+170,ARM,Armenia      ,66.4
+171,AZE,Azerbaijan   ,62.9
+172,GEO,Georgia      ,64.5
+173,KAZ,Kazakstan    ,63.2
+174,KGZ,Kyrgyzstan   ,63.4
+175,TJK,Tajikistan   ,64.1
+176,TKM,Turkmenistan ,60.9
+177,UZB,Uzbekistan   ,63.7
+178,BLR,Belarus      ,68.0
+179,HRV,Croatia      ,73.7
+180,EST,Estonia      ,69.5
+181,LVA,Latvia       ,68.4
+182,LTU,Lithuania    ,69.1
+183,MKD,Macedonia    ,73.8
+184,MDA,Moldova      ,64.5
+185,RUS,Russian Fed. ,67.2
+186,SVN,Slovenia     ,74.9
+187,UKR,Ukraine      ,66.0
+188,BIH,Bosnia &Herze,71.5
+189,ERI,Eritrea      ,55.8
+190,CZE,Czech Rep    ,74.5
+191,SVK,Slovakia     ,73.7
+192,PLW,Palau        ,68.6
+193,IOT,BrIndianO Ter,00.0
+194,MYT,Mayotte      ,59.5
+195,REU,Reunion      ,72.7
+196,SHN,Saint Helena ,76.8
+197,ESH,West. Sahara ,49.8
+198,ATA,Antarctica   ,00.0
+199,BVT,BouvetIsland ,00.0
+200,ATF,Fr South.Ter ,00.0
+201,HMD,HeardIs &MDIs,00.0
+202,SGS,SGeor&SSandw ,00.0
+203,TMP,East Timor   ,46.0
+204,HKG,Hong Kong    ,79.5
+205,MAC,Macao        ,81.6
+206,PSE,Palestine    ,71.4
+207,FRO,Faroe Islands,78.4
+208,GIB,Gibraltar    ,79.0
+209,SJM,Svalbard&JM  ,00.0
+210,AIA,Anguilla     ,76.1
+211,ABW,Aruba        ,78.4
+212,BMU,Bermuda      ,76.9
+213,CYM,CaymanIsl's  ,78.9
+214,GRL,Greenland    ,68.1
+215,GLP,Guadeloupe   ,77.0
+216,MTQ,Martinique   ,78.3
+217,MSR,Montserrat   ,78.0
+218,ANT,NethAntilles ,74.7
+219,PRI,Puerto Rico  ,75.6
+220,SPM,StPierre &Miq,77.6
+221,TCA,Turks&Caicos ,73.3
+222,VGB,VirginIs-Bri ,75.4
+223,VIR,VirginIs-US  ,78.1
+224,ASM,Amer. Samoa  ,75.1
+225,CXR,ChristmasIsl ,00.0
+226,CCK,CocosIslands ,00.0
+227,COK,Cook Islands ,71.1
+228,PYF,Fr Polynesia ,74.8
+229,GUM,Guam         ,77.8
+230,NCL,New Caledonia,72.8
+231,NIU,Niue         ,00.0
+232,NFK,NorfolkIsl   ,00.0
+233,MNP,N Mariana Isl,75.5
+234,PCN,Pitcairn     ,00.0
+235,TKL,Tokelau      ,00.0
+236,UMI,USMinorOutIs ,00.0
+237,WLF,Wallis &Futun,00.0
+238,FLK,Falkland Isl ,00.0
+239,GUF,FrenchGuiana ,76.1

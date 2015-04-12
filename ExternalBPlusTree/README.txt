@@ -7,3 +7,5 @@ Country data is stored in CountryData.csv with fixed length fields which enables
 CodeIndex.bin is a binary file which contains a B+ tree containg the three digit country code of
 each country along with a data record pointer(DRP)which is used to calculate the offset for random
 access of the CountryData.csv file.
+
+**Checkout the Log.txt for the final output
